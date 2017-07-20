@@ -22,7 +22,7 @@ This projects serves the purpose of tracking geo location for android platform.
         ```
     * Add the following to `android/app/src/main/java/**/MainApplication.java`:
         ```java
-        package com.motivation;
+        package com.justget;
 
         import com.justget.geolocation.GeoLocationService;  // add this for react-native-geolocation
 
