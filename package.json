@@ -1,17 +1,17 @@
 {
-  "name": "react-native-android-library-boilerplate",
+  "name": "react-native-geolocation",
   "version": "0.0.1",
-  "author": "Christoph Michel http://cmichel.io",
+  "author": "Sunder Magar http://insteptechnologies.com",
   "private": false,
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate.git"
+    "url": "https://github.com/sundermagar/ReactNativeGeoLocation.git"
   },
   "bugs": {
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate/issues"
+    "url": "https://github.com/sundermagar/ReactNativeGeoLocation/issues"
   },
-  "homepage": "https://github.com/MrToph/react-native-android-library-boilerplate",
+  "homepage": "https://github.com/sundermagar/ReactNativeGeoLocation",
   "keywords": [
     "react-native",
     "android",

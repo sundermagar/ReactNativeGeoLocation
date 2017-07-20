@@ -1,4 +1,4 @@
-package com.justget.locationservice;
+package com.justget.geolocation;
 
 import android.widget.Toast;
 
@@ -9,18 +9,18 @@ import com.facebook.react.bridge.ReactMethod;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Module extends ReactContextBaseJavaModule {
+public class GeoLocationService extends ReactContextBaseJavaModule {
 
   private static final String DURATION_SHORT_KEY = "SHORT";
   private static final String DURATION_LONG_KEY = "LONG";
 
-  public Module(ReactApplicationContext reactContext) {
+  public GeoLocationService(ReactApplicationContext reactContext) {
     super(reactContext);
   }
 
   @Override
   public String getName() {
-    return "LocationService";
+    return "JustGetGeoLocation";
   }
 
   @Override
